@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../Desktop/App"
+		},
+		{
+			"path": "../Match Analysis AI/input_videos"
+		},
+		{
+			"path": "../Match Analysis AI"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "App"
+	}
+}
